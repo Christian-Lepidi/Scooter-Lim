@@ -1,0 +1,63 @@
+body{
+ background-image: url(background.jpg);
+ background-size: cover;   
+}
+
+
+.contenitore{
+    width: 500px;
+    margin-left: 600px;
+    margin-top: 200px;
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 50px;
+    
+    
+}
+
+h2{
+    color: rgb(30, 194, 30);
+}
+
+.logo{
+    width: 200px;
+}
+
+.comandi{
+    border: 1px solid rgb(98, 210, 98);
+    background-color: rgb(98, 210, 98);
+    padding-left: 40px;
+}
+
+.sinistro{
+    margin-right: 30px;
+}
+.centrale{
+    margin-right: 30px;
+}
+.Monopattino{
+    font-size: 25px;
+}
+
+.rettangolo1{
+    width: 290px;
+    height: 20px;
+    background-color: orange;
+
+}
+.rettangolo2{
+    width: 400px;
+    height: 20px;
+    background-color: green;
+
+}
+.rettangolo3{
+    width: 150px;
+    height: 20px;
+    background-color: violet;
+}
+
+.testo-bianco{
+    color: white;
+}
+
+
